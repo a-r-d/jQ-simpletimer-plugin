@@ -1,3 +1,9 @@
+Note from 2015
+==================
+
+This is a kind-of old and crappy JavaScript project that was meant to be used for "under construction" landing pages. I actually just wrote it for fun in order to learn how to make a jQuery plugin. I think if I was to do this over as a more mature programmer I would use canvas rather than nested HTML elements and tons of CSS. Anyway, I will keep this around to see my progress but please don't judge my current work by this old crap.
+
+
 Description:
 ===============
 jQuery countdown timer plugin. Has full documentation, theme, example usage and templates, IE7 compatible. Lightweight.
